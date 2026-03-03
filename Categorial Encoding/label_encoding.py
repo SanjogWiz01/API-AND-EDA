@@ -16,4 +16,4 @@ print(data)
 
 # To see the mapping
 label_mapping = dict(zip(encoder.classes_, range(len(encoder.classes_))))
-print("Label Mapping:", label_mapping)
+print("Label Mapping:", label_mapping)  # encodingt 
