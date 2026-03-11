@@ -1,0 +1,9 @@
+Content-Type: application/soap+xml
+<env:Envelope xmlns:env="https://www.w3.org/2003/05/soap-envelope">
+    <env:Header>
+        <m:GetLastTradePrice xmlns:m="Some-URI" />
+    </env:Header>
+    <env:Body>
+        <symbol xmlns:p="Some-URI" >DIS</symbol>
+    </env:Body>
+</env:Envelope>
