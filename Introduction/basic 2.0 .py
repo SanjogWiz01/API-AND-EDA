@@ -8,4 +8,4 @@ labels = ['0-20', '21-40', '41-60', '61+']
 
 df['Age_Group'] = pd.cut(df['Age'], bins=bins, labels=labels, right=False)
 
-print(df)
+print(df) $# eoij
