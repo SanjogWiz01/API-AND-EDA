@@ -90,6 +90,6 @@ Producer adds items → empty decreases, full increases
 
 Consumer removes items → full decreases, empty increases
 
-Short Exam Version (3–4 lines)     exam exam exam exam exam
+Short Exam Version (3–4 lines)     exam exam exam exam exam exam  
 
 A semaphore is a synchronization mechanism used to control access to shared resources using wait() and signal() operations. In the Producer–Consumer problem, semaphores like mutex, empty, and full are used to avoid race conditions, buffer overflow, and underflow. This ensures proper coordination between producer and consumer.
