@@ -5,4 +5,4 @@ df = pd.DataFrame(data)
 
 df_encoded = pd.get_dummies(df, columns=['Color'], prefix='Color')
 
-print(df_encoded)
+print(df_encoded) # git push
