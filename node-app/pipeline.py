@@ -1,22 +1,4 @@
-"""
-FEATURE ENGINEERING MASTER FILE (80/20 FOR DATA SCIENCE)
 
-Covers:
-- Data Loading
-- Basic EDA
-- Missing Values Handling
-- Data Types Handling
-- Categorical Encoding
-- Feature Scaling
-- Feature Creation
-- Feature Selection
-
-Author: Your Name
-"""
-
-# ==============================
-# 1. IMPORT LIBRARIES
-# ==============================
 
 import pandas as pd
 import numpy as np
