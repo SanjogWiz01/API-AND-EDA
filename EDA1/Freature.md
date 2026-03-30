@@ -12,11 +12,7 @@ Feature engineering is the process of **transforming raw data into features** th
 
 > "Applied machine learning is basically feature engineering." — Andrew Ng
 
-Think of it like this: your raw data is crude oil. Feature engineering is the refining process. The quality of your features often matters **more than the choice of model**.
-
----
-
-## 🎯 Why Does Feature Engineering Matter? (The 80/20 Rule)
+Think of it like this: your raw data is crude oil. Feature engineering is the refining process. The quality of your features often matters **more than
 
 In practice, **80% of the value in a machine learning project** comes from good data preparation and feature engineering, while only about 20% comes from model selection and tuning.
 
